@@ -350,7 +350,7 @@
         grid-template-columns: 90vw;
         grid-template-rows: 35px 46px 320px minmax(min-content, max-content);
         gap: 32px;
-        grid-auto-rows: 35pxs 46px 320px minmax(min-content, max-content);
+        grid-auto-rows: 35px 46px 320px minmax(min-content, max-content);
         grid-template-areas: 
         "title"
         "website"
