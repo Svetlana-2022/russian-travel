@@ -1,0 +1,27 @@
+@font-face { 
+    font-family: "InterRegular";
+    src: url("../fonts/InterRegular/InterRegular.eot");
+    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
+    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face { 
+    font-family: "InterRegular";
+    src: url("../fonts/InterRegular/InterRegular.eot");
+    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
+    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face { 
+    font-family: "InterRegular";
+    src: url("../fonts/InterRegular/InterRegular.eot");
+    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
+    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: bold;
+}
