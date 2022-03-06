@@ -1,0 +1,5 @@
+.cover__content {
+    z-index: 2;
+    position: absolute;
+    left: calc((100vw - 560px)/2);
+}

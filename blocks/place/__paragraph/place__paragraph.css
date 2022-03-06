@@ -1,0 +1,15 @@
+.place__paragraph {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 163%;
+    margin-bottom: 26px;
+    color: #fff;
+    grid-area: paragraph;
+    align-self: start;
+}
+@media screen and(max-width: 320px) {
+    .place__paragraph {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,11 @@
+.lead__caption {
+    margin-top: 8px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    color: #fff;
+}
+.lead__caption:hover {
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
