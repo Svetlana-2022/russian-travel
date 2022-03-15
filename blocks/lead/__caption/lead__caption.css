@@ -1,5 +1,6 @@
 .lead__caption {
     margin-top: 8px;
+    margin-left: 10%;
     font-weight: normal;
     font-size: 10px;
     line-height: 14px;
@@ -8,4 +9,16 @@
 .lead__caption:hover {
     letter-spacing: 1.5px;
     text-transform: uppercase;
+}
+@media screen and(max-width: 768px) {
+    .lead__caption {
+        margin-left: 24px;
+    }
+    
+}
+@media screen and(max-width: 320px) {
+    .lead__caption {
+        margin-left: 12px;
+    }
+    
 }

@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -14,6 +15,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__items/photo-grid__items.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);

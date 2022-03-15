@@ -7,7 +7,7 @@
     color: #fff;
     margin: 0;
 }
-.header__land-link:hover {
+.header__land-link_active {
     text-decoration-line: underline;
 }
 @media screen and(max-width: 320px) {
