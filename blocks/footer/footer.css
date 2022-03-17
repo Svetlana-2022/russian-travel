@@ -1,6 +1,5 @@
 .footer {
     max-width: 90vw;
-    height: 18px;
     padding-top: 92px;
     padding-bottom: 24px;
     margin: 0 auto;
@@ -8,16 +7,15 @@
     display: flex;
     justify-content: space-between;
 }
-@media screen and(max-width: 768px) {
+@media screen and (max-width: 768px) {
     .footer {
         padding-top: 88px;
     }
     
 }
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
     .footer {
         padding-top: 64px;
-        min-height: 310px;
         flex-direction: column;
     }
 }

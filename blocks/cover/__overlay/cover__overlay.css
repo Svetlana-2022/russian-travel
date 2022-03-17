@@ -1,5 +1,5 @@
 .cover__overlay {
-    max-width: 100%;
+    width: 100%;
     min-height: 90vh;
     opacity: 0.3;
     background-color: #2a2c2f;
@@ -9,12 +9,12 @@
 .cover__overlay:hover {
     opacity: 0.8;
 }
-@media screen and(max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .cover__overlay {
-        max-width: 100vw;
+        width: 100vw;
     }
 }
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
     .cover__overlay {
         min-height: 200px;
     }

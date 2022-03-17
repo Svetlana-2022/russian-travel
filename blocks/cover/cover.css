@@ -1,5 +1,5 @@
 .cover {
-    max-width: 90vw;
+    width: 90vw;
     min-height: 90vh;
     margin: auto;
     display: flex;
@@ -7,12 +7,12 @@
     justify-content: center;
     position: relative;
 }
-@media screen and(max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .cover {
         width: 100vw;
     }
 }
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
     .cover {
         min-height: 200px;
     }

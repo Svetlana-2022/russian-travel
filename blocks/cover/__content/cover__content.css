@@ -1,9 +1,9 @@
 .cover__content {
     z-index: 2;
     position: absolute;
-    left: calc((100vw - 560px)/2);
+    left: calc((90vw - 560px)/2);
 }
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
     .cover__content {
         left: 16px;
         right: 16px;

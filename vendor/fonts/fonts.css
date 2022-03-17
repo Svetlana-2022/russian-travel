@@ -1,27 +1,14 @@
 @font-face { 
-    font-family: "InterRegular";
-    src: url("../fonts/InterRegular/InterRegular.eot");
-    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
-    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-@font-face { 
-    font-family: "InterRegular";
-    src: url("../fonts/InterRegular/InterRegular.eot");
-    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
-    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
+    font-family: "InterBlack";
+    src: url("../fonts/inter/Inter-Black.woff") format("woff"),
+    url("../fonts/inter/Inter-Black.woff2") format("woff2");
     font-style: normal;
     font-weight: 900;
 }
 @font-face { 
-    font-family: "InterRegular";
-    src: url("../fonts/InterRegular/InterRegular.eot");
-    src: url("../fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/InterRegular/InterRegular.woff") format("woff"),
-    url("../fonts/InterRegular/InterRegular.ttf") format("truetype");
+    font-family: "InterBold";
+    src: url("../fonts/inter/Inter-Bold.woff") format("woff"),
+    url("../fonts/inter/Inter-Bold.woff2") format("woff2");
     font-style: normal;
     font-weight: bold;
 }

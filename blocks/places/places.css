@@ -8,13 +8,13 @@
     grid-auto-rows: 1fr;
     margin: 0 auto;
 }
-@media screen and(max-width: 768px) {
+@media screen and (max-width: 768px) {
     .places {
         padding-top: 88px;
         row-gap: 70px;
     }
 }
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
     .places {
         padding-top: 64px;
         row-gap: 50px;
