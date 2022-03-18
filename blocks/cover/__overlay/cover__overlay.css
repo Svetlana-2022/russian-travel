@@ -21,11 +21,11 @@
 }
 @media  screen and (max-width: 425px) {
     .cover__overlay {
-        height: 40vh;
+        max-height: 40vh;
     }
 }
 @media screen and (max-width: 320px) {
     .cover__overlay {
-        height: 200px;
+        max-height: 200px;
     }
 }
