@@ -1,6 +1,6 @@
 .cover {
     width: 90vw;
-    min-height: 90vh;
+    height: 90vh;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -10,6 +10,11 @@
 @media screen and (max-width: 1024px) {
     .cover {
         width: 100vw;
+    }
+}
+@media  screen and (max-width: 425px) {
+    .cover {
+        height: 40vh;
     }
 }
 @media screen and (max-width: 320px) {

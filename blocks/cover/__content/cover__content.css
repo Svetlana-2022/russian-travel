@@ -3,6 +3,11 @@
     position: absolute;
     left: calc((90vw - 560px)/2);
 }
+@media  screen and (max-width: 768px) {
+    .cover__content {
+        left: 5%;
+    }
+}
 @media screen and (max-width: 320px) {
     .cover__content {
         left: 16px;

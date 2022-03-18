@@ -1,6 +1,6 @@
 .cover__overlay {
     width: 100%;
-    min-height: 90vh;
+    height: 90vh;
     opacity: 0.3;
     background-color: #2a2c2f;
     z-index: 1;
@@ -12,6 +12,11 @@
 @media screen and (max-width: 1024px) {
     .cover__overlay {
         width: 100vw;
+    }
+}
+@media  screen and (max-width: 425px) {
+    .cover__overlay {
+        height: 40vh;
     }
 }
 @media screen and (max-width: 320px) {

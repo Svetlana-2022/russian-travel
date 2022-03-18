@@ -18,10 +18,10 @@
 }
 @media screen and (max-width: 768px) {
     .place {
-        column-gap: 28px;
+        column-gap: 24px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .place {
         grid-template-columns: 1fr;
         grid-template-rows: min-content min-content 1fr minmax(min-content, max-content);
