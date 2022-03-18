@@ -1,7 +1,7 @@
 .page {
     max-width: 1280px;
     min-width: 320px;
-    font-family: 'InterBold', 'InterRegular', 'InterBlack' sans-serif;
+    font-family: 'InterBold', 'InterRegular', 'InterBlack', sans-serif;
     background-color: #2a2c2f;
     margin: 0 auto;
 }
